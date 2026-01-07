@@ -1,12 +1,14 @@
 # 💼 Projeto Portfólio | Curso em Vídeo
 
+<img width="828" height="931" alt="Image" src="https://github.com/user-attachments/assets/242828d7-e4a2-4512-8be4-3675f942c7e8" />
 
+<img width="826" height="927" alt="Image" src="https://github.com/user-attachments/assets/f061b44c-bc27-4a61-8f82-36026d8295cf" />
 
 Este projeto consiste no desenvolvimento de um portfólio pessoal, criado como projeto final do curso “HTML5 e CSS3 – Módulo 5”, com o objetivo de aplicar na prática os conhecimentos adquiridos ao longo dos 5 módulos.
 
 ## 🌐 Visualize o projeto:
 
-**[Ver Projeto Online]()**
+**[Ver Projeto Online](https://cursoemvideo-portfolio.vercel.app/)**
 
 ## 🛠️ Tecnologias Utilizadas:
 
